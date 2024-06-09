@@ -1,0 +1,5 @@
+1.create google api key
+    https://aistudio.google.com/app/apikey
+2.install the older version of langchian from 2023 for google palm.
+3.For google gemini-pro
+    https://dev.to/timesurgelabs/how-to-use-googles-gemini-pro-with-langchain-1eje

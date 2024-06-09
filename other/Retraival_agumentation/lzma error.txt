@@ -1,0 +1,18 @@
+Briefly, pip install lzma will not work, do it instead:
+
+pip install backports.lzma
+and go to your python directory:
+
+cd /usr/local/lib/python3.8
+and you will modify your lzma.py file. I could only do this with higher permission level, so I did
+
+sudo nano lzma.py
+In the beginning, there are two lines
+
+from _lzma import *
+from _lzma import _encode_filter_properties, _decode_filter_properties
+Modify them to
+
+from backports.lzma import *
+from backports.lzma import _encode_filter_properties, _decode_filter_properties
+and save and close the file. Boltztrap2 may work now.

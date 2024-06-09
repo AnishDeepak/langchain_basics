@@ -1,0 +1,49 @@
+math application using langchain agent:
+https://towardsdatascience.com/building-a-math-application-with-langchain-agents-23919d09a4d3
+
+rag with hugging face:
+https://medium.com/@akriti.upadhyay/implementing-rag-with-langchain-and-hugging-face-28e3ea66c5f7
+
+gene ia, llms, hugging face, openai,langchain:
+https://medium.com/@chenycy/explore-generative-ai-and-llm-unveiling-hugging-face-openais-gpt-and-langchain-9bc03071a628
+
+langchain book:
+1.https://www.pinecone.io/learn/series/langchain/
+2.https://medium.com/@okanyenigun
+
+types of langchain agents:
+https://www.c-sharpcorner.com/article/agents-in-langchain/
+
+langchain memory:
+1.https://lancerninja.com/conversational-memory-in-langchain/
+2.https://www.comet.com/site/blog/enhance-conversational-agents-with-langchain-memory/
+
+langchian_agent to solve the math expression:
+https://medium.com/@vinusebastianthomas/langchain-agents-unleashing-the-power-of-language-models-for-real-world-automation-d4a75845717f
+
+langchain agent to use file ops with minio;
+https://blog.min.io/minio-langchain-tool/
+
+chat_models_capabilities table:
+https://python.langchain.com/docs/integrations/chat/
+
+langchain agen+anthropi llm:
+https://medium.com/@dminhk/langchain-%EF%B8%8F-tool-calling-and-tool-calling-agent-with-anthropic-467b0fb58980
+
+combining chain and agent as chains (PAL) age, gift and budget recommender:
+https://towardsdatascience.com/a-gentle-intro-to-chaining-llms-agents-and-utils-via-langchain-16cd385fca81
+
+adding memory to custom agents:
+https://python.langchain.com/docs/modules/agents/how_to/custom_agent/
+
+langchain+prompting:
+1.https://www.datacamp.com/tutorial/prompt-engineering-with-langchain
+2.https://jayant017.medium.com/efficient-few-shot-prompting-in-langchain-part-1-b9b60f9c8f69
+3.https://blog.gopenai.com/zeroshot-fewshot-and-prompt-chaining-using-langchain-4259d700d67f (zero+few shot)
+
+langchain chains:
+1.https://python.plainenglish.io/langchain-routers-a6ad9a4f2ed9
+2.https://www.analyticsvidhya.com/blog/2023/10/a-comprehensive-guide-to-using-chains-in-langchain/
+
+RAG:
+1.https://www.analyticsvidhya.com/blog/2023/11/rag-langchain-and-vector-databases/
